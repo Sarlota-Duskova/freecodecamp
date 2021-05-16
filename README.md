@@ -1,1 +1,1 @@
-# freecodecamp-JavaScript-anilla
+# freecodecamp-JavaScript-Vanilla
