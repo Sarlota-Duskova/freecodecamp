@@ -1,0 +1,70 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #023e7d;
+  height: 100vh;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  color: #f2efe9;
+}
+
+.timer-container {
+  color: #f2efe9;
+  margin: 50px;
+}
+
+button {
+  background-color: transparent;
+  color: #f2efe9;
+  cursor: pointer;
+  border: none;
+}
+
+.body-settimer {
+  display: flex;
+}
+
+.body-clock-break {
+  /*background-color: #ef3e36;*/
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #60c11f; /*green*/
+  height: 250px;
+  width: 350px;
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  padding-top: 80px;
+  cursor: pointer;
+}
+
+.body-clock-session {
+  /*background-color: #ef3e36;*/
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ef3e36; /*red*/
+  height: 250px;
+  width: 350px;
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  padding-top: 80px;
+  cursor: pointer;
+}
+
+.body-footer {
+  margin: 20px 0px;
+}
+
+#break-label {
+  color: #60c11f; /*green*/
+}
+
+#session-label {
+  color: #ef3e36; /*red*/
+}
