@@ -1,0 +1,234 @@
+html {
+    font-family: Helvetica;
+    margin: 0;
+    padding: 0;
+    padding-top: 60px;
+    background: #D3D3D3;
+  }
+  
+  /*
+  @media (max-height: 800px)
+  {
+    html {
+      font-size: 10px;
+    }
+  }
+  */
+  
+  section, footer {
+    margin-left: 250px;
+    margin-right: 250px;
+  }
+  
+  #header {
+    position: fixed;
+    top: 0; /* Position header at the top of the page */
+    width: 100%; /* Full width */
+    height: auto;
+    background: #D3D3D3;
+  }
+  
+  #header-img {
+    float: left;
+    height: auto;
+    width: 25%;
+    padding-top: 10px;
+  }
+  
+  #nav-bar ul {
+    float: right; /* Because it change order */
+  }
+  
+  #nav-bar li {
+    list-style: none; /* None bullets */
+    display: flex; /* Each side by side */
+    padding: 0px 50px;
+    font-size: 20px;
+    float: left;
+  }
+  
+  #nav-bar a {
+    text-decoration: none; 
+    color: black;
+  }
+  
+  #form-name {
+    text-align: center;
+  }
+  
+  #form {
+    text-align: center;
+  }
+  
+  #email {
+    width: 250px;
+    height: 25px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    transition: .3s border-color;
+  }
+  
+  #submit {
+    width: 150px;
+    height: 30px;
+    cursor: pointer;
+    background-color: #ffcc5c;
+    border: 1px solid grey;
+    font-weight: 800;
+    transition: .3s border-color;
+  }
+  
+  #email:hover, #submit:hover {
+    border: 1px solid black;
+  }
+  
+  #features {
+    margin-top: 150px;
+    margin-bottom: 150px;
+  }
+  
+  #features .icon{
+   /* text-align: left;*/
+    color: orange;
+    display: flex;
+    align-items: bottom;
+    justify-content: left;
+    height: 0px;
+    width: 0px;
+  }
+  
+  #features .features-text {
+    display: flex;
+    flex-direction: column;
+    padding-left: 130px;
+  }
+  
+  /*
+  .icon {
+    overflow:auto;
+    float: left;
+  }
+  */
+  
+  .features-text h1 {
+   /* margin-left: 130px;*/
+    margin-bottom: 0px;
+  }
+  
+  i.fa {
+    line-height: 160%;
+  }
+  
+  
+  iframe {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  #how-it-works {
+    margin-bottom: 150px;
+  }
+  
+  #pricing {
+    display: grid;
+    grid-template-areas: "trombone trombone trombone";
+    grid-template-columns: auto auto auto;
+    grid-column-gap: 25px;
+  }
+  
+  .products {
+    margin-bottom: 35px;
+  }
+  
+  #tenor #bass #valve {
+    grid-area: trombone;
+    
+  }
+  
+  #tenor {
+    border: 1px solid black;
+    text-align: center;
+  }
+  
+  #tenor ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  #bass {
+    border: 1px solid black;
+    text-align: center;
+  }
+  
+  #bass ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  #valve ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  #valve {
+    border: 1px solid black;
+    text-align: center;
+  }
+  
+  .header-name {
+    font-weight: 500;
+    font-size: 20px;
+    background: #A9A9A9;
+    margin-top: 0px;
+    padding: 10px;
+  }
+  
+  .products li {
+    list-style: none;
+  }
+  
+  .price {
+    font-size: 25px;
+    font-weight: 1400;
+  }
+  
+  .button {
+    width: 100px;
+    height: 30px;
+    cursor: pointer;
+    background-color: #ffcc5c;
+    border: 1px solid grey;
+    font-weight: 800;
+    transition: .3s border-color;
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
+  
+  .button:hover {
+    border: 1px solid black;
+  }
+  
+  footer {
+    background: #A9A9A9;
+    padding: 5px 20px 30px 20px;
+  }
+  
+  footer li {
+    list-style: none; /* None bullets */
+    display: inline-block; /* Each side by side */
+    float: right;
+    padding: 0px 0px 0px 30px;
+  }
+  
+  footer a {
+    text-decoration: none; 
+    color: black;
+  }
+  
+  span {
+    color: #606060;
+    float: right;
+    font-size: 15px;
+  }
