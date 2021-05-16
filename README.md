@@ -1,1 +1,1 @@
-# freecodecamp-JavaScript-Vanilla
+# freecodecamp Projects
