@@ -12,23 +12,29 @@ def get_open_ports(target, port_range, verbose=False): # verbose is optional
   # Make a regular expression for validating a hostname
   ValidHostnameRegex = "^(([a-zA-Z0-9]|[a-zA-Z0-9][a-zA-Z0-9\-]*[a-zA-Z0-9])\.)*([A-Za-z0-9]|[A-Za-z0-9][A-Za-z0-9\-]*[A-Za-z0-9])$"
 
+  ip_hostname_condition = True
+  
   # Use regular expression to search for particular strings of characters
   if(re.search(ValidIpAddressRegex, target)): # If RegEx pass then IP address is valid
+    ip_hostname_condition = True
     print("Info: Valid IP address")
   elif(re.search(ValidHostnameRegex, target)):  # If RegEx pass then hostname is valid
     print("Info: Valid hostname")
     try: 
       print("Target hostname: ", target) # Print target hostname
       target = socket.gethostbyname(target) # Returns the IP address of the host
+      ip_hostname_condition = True
       print("Hostname IP: ", target) # Print IP address of the host
     except socket.gaierror: 
       print ("Error: Could not resolve hostname") # Raise exception if it isn't valid hostname
+      ip_hostname_condition = False
       sys.exit()
   else:
     print("Error: The target is not IP address nor hostname.") # It isn't valid IP address nor hostname
+    ip_hostname_condition = False
     sys.exit()
   
-  if(re.search(ValidIpAddressRegex, target) or re.search(ValidHostnameRegex, target)):
+  if(ip_hostname_condition != False):
     for i in range(port_range[0], port_range[1]+1): # For loop for given range of ports
       print("\nTested port: ", i)
       
