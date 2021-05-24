@@ -10,6 +10,7 @@ def get_open_ports(target, port_range, verbose=False): # verbose is optional
   # Make a regular expression for validating an IP-address
   ValidIpAddressRegex = "^(([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])\.){3}([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])$"
   # Make a regular expression for validating a hostname
+  # ValidHostnameRegex is valid as per RFC 1123. Originally, RFC 952 specified that hostname segments could not start with a digit.
   ValidHostnameRegex = "^(([a-zA-Z0-9]|[a-zA-Z0-9][a-zA-Z0-9\-]*[a-zA-Z0-9])\.)*([A-Za-z0-9]|[A-Za-z0-9][A-Za-z0-9\-]*[A-Za-z0-9])$"
 
   ip_hostname_condition = True
