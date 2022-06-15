@@ -12,6 +12,10 @@
 
 [5. Personal portfolio](https://sarlota-duskova.github.io/freecodecamp/1-Responsive-Web-Design/5-Personal-portfolio/)
 
+## 2. JavaScript Vanilla
+
+[1. Palindrome checker](https://sarlota-duskova.github.io/freecodecamp/1-Responsive-Web-Design/1-Tribute-page/)
+
 ## 3. FrontEnd development libraries
 
 [1. Random quote machine](https://sarlota-duskova.github.io/freecodecamp/3-FrontEnd-Development-Libraries/1-Random-quote-machine/)
