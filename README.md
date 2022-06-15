@@ -14,7 +14,15 @@
 
 ## 2. JavaScript Vanilla
 
-[1. Palindrome checker](https://sarlota-duskova.github.io/freecodecamp/1-Responsive-Web-Design/1-Tribute-page/)
+[1. Palindrome checker](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/1-Palindrome-checker/)
+
+[2. Roman numeral converter](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/2-Roman-numeral-converter/)
+
+[3. Caesars cipher](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/3-Caesars-cipher/)
+
+[4. Telephone number validator](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/4-Telephone-number-validator/)
+
+[5. Cash register](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/5-Cash-register/)
 
 ## 3. FrontEnd development libraries
 
