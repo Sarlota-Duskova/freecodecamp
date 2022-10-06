@@ -18,19 +18,19 @@
 
 [1. Palindrome checker - output](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/1-Palindrome-checker/web)
 
-[2. Roman numeral converter - readme](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/2-Roman-numeral-converter/README.md)
+[2. Roman numeral converter - readme](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/2-Roman-numeral-converter)
 
 [2. Roman numeral converter - output](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/2-Roman-numeral-converter/web)
 
-[3. Caesars cipher - readme](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/3-Caesars-cipher/README.md)
+[3. Caesars cipher - readme](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/3-Caesars-cipher)
 
 [3. Caesars cipher - output](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/3-Caesars-cipher/web)
 
-[4. Telephone number validator - readme](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/4-Telephone-number-validator/README.md)
+[4. Telephone number validator - readme](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/4-Telephone-number-validator)
 
 [4. Telephone number validator - output](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/4-Telephone-number-validator/web)
 
-[5. Cash register - readme](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/5-Cash-register/README.md)
+[5. Cash register - readme](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/5-Cash-register)
 
 [5. Cash register - output](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/5-Cash-register/web)
 
