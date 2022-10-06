@@ -14,7 +14,7 @@
 
 ## 2. JavaScript Vanilla
 
-[1. Palindrome checker - readme](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/1-Palindrome-checker/readme.md)
+[1. Palindrome checker - readme](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/)
 [1. Palindrome checker - output](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/1-Palindrome-checker/)
 
 [2. Roman numeral converter - readme](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/2-Roman-numeral-converter/README.md)
@@ -33,7 +33,7 @@
 
 [1. Random quote machine](https://sarlota-duskova.github.io/freecodecamp/3-FrontEnd-Development-Libraries/1-Random-quote-machine/)
 
-## 7. Python
+## 7. Python
 
 [1. Arithmetic formatter](https://sarlota-duskova.github.io/freecodecamp/7-Python/1-Arithmetic-formatter/)
 
