@@ -2,11 +2,11 @@
 
 ## 1. Responsive web design
 
-[1. Tribute page](https://sarlota-duskova.github.io/1-Responsive-Web-Design/1-Tribute-page/)
+[1. Tribute page](https://sarlota-duskova.github.io/freecodecamp/1-Responsive-Web-Design/1-Tribute-page)
 
-[2. Survey form](https://sarlota-duskova.github.io/1-Responsive-Web-Design/2-Survey-form/)
+[2. Survey form](https://sarlota-duskova.github.io/freecodecamp/1-Responsive-Web-Design/2-Survey-form/)
 
-[3. Product landing page](https://sarlota-duskova.github.io//1-Responsive-Web-Design/3-Product-landing-page/)
+[3. Product landing page](https://sarlota-duskova.github.io/freecodecamp/1-Responsive-Web-Design/3-Product-landing-page/)
 
 [4. Technical documentation page](https://sarlota-duskova.github.io/1-Responsive-Web-Design/4-Technical-documentation-page/)
 
@@ -28,10 +28,3 @@
 
 [1. Random quote machine](https://sarlota-duskova.github.io/3-FrontEnd-Development-Libraries/1-Random-quote-machine/)
 
-[2. Markdown previewer](https://sarlota-duskova.github.io/3-FrontEnd-Development-Libraries/2-Markdown-previewer/)
-
-[3. Drum machine](https://sarlota-duskova.github.io/3-FrontEnd-Development-Libraries/3-Drum-machine/)
-
-[4. JavaScript calculator](https://sarlota-duskova.github.io/3-FrontEnd-Development-Libraries/4-JavaScript-calculator/)
-
-[5. Clock 25-5](https://sarlota-duskova.github.io/3-FrontEnd-Development-Libraries/5-Clock-25-5/)
