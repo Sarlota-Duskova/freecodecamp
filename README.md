@@ -18,21 +18,21 @@
 - [Readme](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/1-Palindrome-checker)
 - [Output](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/1-Palindrome-checker/web)
 
-[2. Roman numeral converter - readme](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/2-Roman-numeral-converter)
+### 2. Roman numeral converter
+- [Readme](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/2-Roman-numeral-converter)
+- [Output](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/2-Roman-numeral-converter/web)
 
-[2. Roman numeral converter - output](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/2-Roman-numeral-converter/web)
+### 3. Caesars cipher
+- [Readme](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/3-Caesars-cipher)
+- [Output](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/3-Caesars-cipher/web)
 
-[3. Caesars cipher - readme](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/3-Caesars-cipher)
+### 4. Telephone number validator
+- [Readme](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/4-Telephone-number-validator)
+- [Output](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/4-Telephone-number-validator/web)
 
-[3. Caesars cipher - output](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/3-Caesars-cipher/web)
-
-[4. Telephone number validator - readme](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/4-Telephone-number-validator)
-
-[4. Telephone number validator - output](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/4-Telephone-number-validator/web)
-
-[5. Cash register - readme](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/5-Cash-register)
-
-[5. Cash register - output](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/5-Cash-register/web)
+### 5. Cash register
+- [Readme](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/5-Cash-register)
+- [Output](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/5-Cash-register/web)
 
 ## 3. FrontEnd development libraries
 
