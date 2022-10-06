@@ -15,9 +15,8 @@
 ## 2. JavaScript Vanilla
 
 ### 1. Palindrome checker
-[readme](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/1-Palindrome-checker)
-
-[output](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/1-Palindrome-checker/web)
+- [Readme](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/1-Palindrome-checker)
+- [Output](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/1-Palindrome-checker/web)
 
 [2. Roman numeral converter - readme](https://sarlota-duskova.github.io/freecodecamp/2-JavaScript-Vanilla/2-Roman-numeral-converter)
 
